@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creatures-rolodex/static/css/main.f1c16b79.chunk.css",
+    "main.js": "/creatures-rolodex/static/js/main.9b71276b.chunk.js",
+    "main.js.map": "/creatures-rolodex/static/js/main.9b71276b.chunk.js.map",
+    "runtime-main.js": "/creatures-rolodex/static/js/runtime-main.2e001d9a.js",
+    "runtime-main.js.map": "/creatures-rolodex/static/js/runtime-main.2e001d9a.js.map",
+    "static/js/2.69c444ea.chunk.js": "/creatures-rolodex/static/js/2.69c444ea.chunk.js",
+    "static/js/2.69c444ea.chunk.js.map": "/creatures-rolodex/static/js/2.69c444ea.chunk.js.map",
+    "index.html": "/creatures-rolodex/index.html",
+    "precache-manifest.fd9596d4140d7b5e4ba422daa82bb7ef.js": "/creatures-rolodex/precache-manifest.fd9596d4140d7b5e4ba422daa82bb7ef.js",
+    "service-worker.js": "/creatures-rolodex/service-worker.js",
+    "static/css/main.f1c16b79.chunk.css.map": "/creatures-rolodex/static/css/main.f1c16b79.chunk.css.map"
+  }
+}
